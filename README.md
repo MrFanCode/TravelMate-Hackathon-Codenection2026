@@ -2,7 +2,6 @@
 
 **Team:** MUHAMMAD IRFAN BIN DHAJUDEEN, NUR AMALINA QISTINA BINTI MOHD YUNUS, NURUL ALWANI BINTI MOHD ARIF
 **Problem Statement:** Travel Planner
-**Video Presentation:** [Unlisted YouTube Link — ___________________]
 
 ---
 

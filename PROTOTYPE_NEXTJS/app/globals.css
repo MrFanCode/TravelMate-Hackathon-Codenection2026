@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Public+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap');
+
+body {
+  background: #F3E9D2;
+  color: #22314A;
+}
+
+/* Airmail stripe — same signature motif as the Flutter build */
+.airmail-stripe {
+  height: 8px;
+  width: 100%;
+  background: repeating-linear-gradient(
+    -45deg,
+    #B84A2E 0px, #B84A2E 10px,
+    #F3E9D2 10px, #F3E9D2 16px,
+    #22314A 16px, #22314A 26px,
+    #F3E9D2 26px, #F3E9D2 32px
+  );
+}

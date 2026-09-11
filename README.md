@@ -82,7 +82,7 @@ TravelMate is an all-in-one mobile trip planner that replaces the 5+ apps travel
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [Public Link — [travelmate-prototype.vercel.app](https://travelmate-prototype.vercel.app/)]
+**UI Prototype:** Public Link — [travelmate-prototype.vercel.app](https://travelmate-prototype.vercel.app/)
 *(Deploy the Next.js prototype to Vercel — free, no card required — and link it here. Test that it opens in an incognito window before submitting.)*
 
 **Key screens:**

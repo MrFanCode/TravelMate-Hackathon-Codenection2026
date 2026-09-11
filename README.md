@@ -1,9 +1,12 @@
-# TravelMate by ___________________
+# TravelMate by ________QuBits___________
 
-**Team:** ___________________, ___________________, ___________________, ___________________
+**Team:** MUHAMMAD IRFAN BIN DHAJUDEEN, NUR AMALINA QISTINA BINTI MOHD YUNUS, NURUL ALWANI BINTI MOHD ARIF
+
 **Problem Statement:** Travel Planner
+
 **Video Presentation:** [Unlisted YouTube Link — ___________________]
-**Presentation Slides:** [Public Link — ___________________]
+
+**Prototype Link:** [ travelmate-prototype.vercel.app](https://travelmate-prototype.vercel.app/)
 
 ---
 
@@ -72,10 +75,10 @@ TravelMate is an all-in-one mobile trip planner that replaces the 5+ apps travel
 
 | Date | Mentor | Feedback Received | What Was Changed |
 |---|---|---|---|
-| ___________ | ___________ | "Live booking APIs will eat a huge chunk of your time. Mock the data and focus on the UX flow." | Removed live API integration, created a mocked dataset instead, freeing time for design. |
-| ___________ | ___________ | "Your group features are too complex. Start with simple voting before real-time chat." | Simplified group sync to voting + a shared dashboard; cut in-app chat from the prototype scope. |
-| ___________ | ___________ | "Judges want to see the problem clearly. Add a before/after comparison." | Added a "life without TravelMate vs. with TravelMate" comparison to the presentation. |
-| ___________ | Codenection mentor | Suggested building the interactive prototype in Next.js instead of Flutter for easier debugging and deployment; suggested adding Google Calendar integration so group members can see when everyone's free and block calendars once a trip is confirmed; suggested exploring a Life360-style live location service for safety. | Built a full Next.js prototype (kept the Flutter build as the reference for the eventual native app, since browsers can't do true background location tracking). Built real Google Calendar integration (freebusy check + calendar blocking, via Google's API). Evaluated Life360 and found it has no public developer API for third-party integration — kept our own already-built live location + SOS feature instead of depending on a closed platform. |
+|03/09/2026 | Umi Kalsum(College Lecturer) | "Live booking APIs will eat a huge chunk of your time. Mock the data and focus on the UX flow." | Removed live API integration, created a mocked dataset instead, freeing time for design. |
+| 03/09/2026 | Umi Kalsum(College Lecturer) | "Your group features are too complex. Start with simple voting before real-time chat." | Simplified group sync to voting + a shared dashboard; cut in-app chat from the prototype scope. |
+| 03/09/2026 | Umi Kalsum(College Lecturer) | "Judges want to see the problem clearly. Add a before/after comparison." | Added a "life without TravelMate vs. with TravelMate" comparison to the presentation. |
+| 07/09/2026 | Lim Zi Yang(Codenection mentor) | Suggested building the interactive prototype in Next.js instead of Flutter for easier debugging and deployment; suggested adding Google Calendar integration so group members can see when everyone's free and block calendars once a trip is confirmed; suggested exploring a Life360-style live location service for safety. | Built a full Next.js prototype (kept the Flutter build as the reference for the eventual native app, since browsers can't do true background location tracking). Built real Google Calendar integration (freebusy check + calendar blocking, via Google's API). Evaluated Life360 and found it has no public developer API for third-party integration — kept our own already-built live location + SOS feature instead of depending on a closed platform. |
 
 *Note: even where we agreed with mentor feedback, we made our own call on execution — e.g., we kept the Flutter build alongside the Next.js pivot rather than discarding it, since the two serve different purposes (demo prototype vs. real native app).*
 
@@ -83,7 +86,7 @@ TravelMate is an all-in-one mobile trip planner that replaces the 5+ apps travel
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [Public Link — ___________________]
+**UI Prototype:** [Public Link — [travelmate-prototype.vercel.app](https://travelmate-prototype.vercel.app/)_
 *(Deploy the Next.js prototype to Vercel — free, no card required — and link it here. Test that it opens in an incognito window before submitting.)*
 
 **Key screens:**

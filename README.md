@@ -4,6 +4,10 @@
 
 **Problem Statement:** Travel Planner
 
+**Video Presentation:** [Unlisted YouTube Link - https://canva.link/hbr9jvvoj27hnck](https://www.youtube.com/watch?v=vFySTw-Gl8o)
+
+**Presentation Slides:** [Public Link - https://canva.link/hbr9jvvoj27hnck](https://canva.link/hbr9jvvoj27hnck)
+
 ---
 
 ## 1. Project Overview

@@ -25,7 +25,7 @@ Capacitor plan in `backend-architecture.md`).
 
 ## Where we are, in one line
 
-We have a validated concept, full design direction, and 15 high-fidelity mobile screen mockups. **Nothing has been built in Flutter yet** — this is still a design-and-planning phase deliverable, not a working app.
+The entire frontend is built and working end-to-end — all 15 core flows exist in both Flutter (native reference) and Next.js (deployed prototype), plus several features added beyond the original scope (live location/SOS, checklist, calendar check, profile/multi-trip, offline PDF export). Backend (Firebase, FastAPI, OR-Tools, Ollama) is fully planned and documented but not yet built — that's the next phase.
 
 ---
 
@@ -34,7 +34,7 @@ We have a validated concept, full design direction, and 15 high-fidelity mobile 
 ### Product thinking
 - [x] Problem defined — fragmentation across 5+ travel apps
 - [x] Two user personas — solo backpacker (Maya) and group organizer (Jake)
-- [x] Competitive analysis vs. Wanderlog, TripIt, Splitwise, Google Maps, WhatsApp
+- [x] Competitive analysis vs. Wanderlog, TripIt, Splitwise, Wonderplan.ai, Mindtrip
 - [x] Key differentiator identified — adaptive replan (no competitor has this)
 - [x] Feature priority matrix (MVP → Phase 4 roadmap)
 - [x] Ideation history documented (3 rejected ideas, 5 iterations, mentor feedback)
@@ -153,4 +153,4 @@ We have a validated concept, full design direction, and 15 high-fidelity mobile 
 | Q3 2026 | Integrate booking APIs (Skyscanner, Booking.com) |
 | Q4 2026 | Publish public beta on App Store & Play Store |
 
-*Note: given nothing is built in Flutter yet as of this report, Q1 2026 in the original roadmap should be treated as aspirational, not current — worth re-baselining once engineering actually kicks off.*
+*Note: this roadmap predates the current build. Frontend work (Flutter + Next.js) is now complete, well ahead of the original Q1 2026 milestone — but backend work hasn't started, so Q1 2026 should still be re-baselined once Firebase/FastAPI development actually kicks off.*
